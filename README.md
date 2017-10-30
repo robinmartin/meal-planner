@@ -17,3 +17,7 @@ Some of the more interesting technology bits:
 - The system utilises laravel/passport to create a fully functioning oauth2 server
 - All 'meals' when added are saved to a full-text search index - currently using Algolia for this allowing for quick and easy filtering when searching for new meals to add on future dates
 - Basic ability to allow repeat meals i.e. the same meal repeating each week on the same day or every 2 weeks
+
+
+## Demo
+A demo is available at [http://mealplanner.ramserver.net](http://mealplanner.ramserver.net) though please note data is periodically deleted. 
